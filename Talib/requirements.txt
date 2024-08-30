@@ -1,0 +1,12 @@
+pandas
+numpy
+seaborn
+matplotlib
+scipy
+talib
+yfinace
+SMA
+MACD
+RSI
+EMA
+WCLPrice
